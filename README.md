@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/HemenBhasin/LeetCode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/HemenBhasin/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Queue
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/HemenBhasin/LeetCode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 ## Stack
 |  |
