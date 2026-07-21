@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HemenBhasin/LeetCode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/HemenBhasin/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HemenBhasin/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HemenBhasin/LeetCode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
