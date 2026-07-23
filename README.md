@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/HemenBhasin/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/HemenBhasin/LeetCode/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HemenBhasin/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/HemenBhasin/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
