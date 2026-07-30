@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HemenBhasin/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/HemenBhasin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HemenBhasin/LeetCode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HemenBhasin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HemenBhasin/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HemenBhasin/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
