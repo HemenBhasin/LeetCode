@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/HemenBhasin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HemenBhasin/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HemenBhasin/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HemenBhasin/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HemenBhasin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HemenBhasin/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
