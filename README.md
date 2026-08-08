@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HemenBhasin/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/HemenBhasin/LeetCode/tree/master/0274-h-index) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/HemenBhasin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HemenBhasin/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/HemenBhasin/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HemenBhasin/LeetCode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/HemenBhasin/LeetCode/tree/master/0322-coin-change) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HemenBhasin/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/HemenBhasin/LeetCode/tree/master/0134-gas-station) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/HemenBhasin/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
