@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/HemenBhasin/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/HemenBhasin/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HemenBhasin/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HemenBhasin/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/HemenBhasin/LeetCode/tree/master/0392-is-subsequence) |
