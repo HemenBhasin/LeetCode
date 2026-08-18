@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HemenBhasin/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/HemenBhasin/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/HemenBhasin/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HemenBhasin/LeetCode/tree/master/0202-happy-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HemenBhasin/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/HemenBhasin/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
