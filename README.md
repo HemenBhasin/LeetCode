@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HemenBhasin/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HemenBhasin/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/HemenBhasin/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HemenBhasin/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HemenBhasin/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/HemenBhasin/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/HemenBhasin/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HemenBhasin/LeetCode/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HemenBhasin/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
