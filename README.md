@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/HemenBhasin/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HemenBhasin/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/HemenBhasin/LeetCode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/HemenBhasin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/HemenBhasin/LeetCode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HemenBhasin/LeetCode/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
