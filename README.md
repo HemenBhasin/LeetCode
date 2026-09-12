@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HemenBhasin/LeetCode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HemenBhasin/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/HemenBhasin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/HemenBhasin/LeetCode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/HemenBhasin/LeetCode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/HemenBhasin/LeetCode/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/HemenBhasin/LeetCode/tree/master/0792-binary-search) |
 ## Queue
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/HemenBhasin/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HemenBhasin/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HemenBhasin/LeetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/HemenBhasin/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HemenBhasin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/HemenBhasin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/HemenBhasin/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
