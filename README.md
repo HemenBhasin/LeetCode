@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/HemenBhasin/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/HemenBhasin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/HemenBhasin/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/HemenBhasin/LeetCode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HemenBhasin/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
