@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HemenBhasin/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HemenBhasin/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/HemenBhasin/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HemenBhasin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/HemenBhasin/LeetCode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HemenBhasin/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/HemenBhasin/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/HemenBhasin/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HemenBhasin/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/HemenBhasin/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/HemenBhasin/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/HemenBhasin/LeetCode/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HemenBhasin/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Merge Sort
 |  |
 | ------- |
