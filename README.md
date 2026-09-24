@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HemenBhasin/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0953-reverse-only-letters](https://github.com/HemenBhasin/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1078-remove-outermost-parentheses](https://github.com/HemenBhasin/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/HemenBhasin/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HemenBhasin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/HemenBhasin/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HemenBhasin/LeetCode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/HemenBhasin/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
