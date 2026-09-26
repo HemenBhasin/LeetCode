@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/HemenBhasin/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/HemenBhasin/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/HemenBhasin/LeetCode/tree/master/0414-third-maximum-number) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/HemenBhasin/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/HemenBhasin/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HemenBhasin/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/HemenBhasin/LeetCode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/HemenBhasin/LeetCode/tree/master/0792-binary-search) |
 ## Queue
 |  |
