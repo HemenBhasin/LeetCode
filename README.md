@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/HemenBhasin/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0838-design-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/HemenBhasin/LeetCode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/HemenBhasin/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Interactive
 |  |
